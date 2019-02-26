@@ -22,12 +22,3 @@ int main(int argc, char *argv[]) {
   free(p);
   return 0;
 }
-
-/*
-while numero != 1:
-    if numero%x ==0:
-        divisores.append(x)
-        numero = numero/x
-    else:
-        x = x+1
-*/
